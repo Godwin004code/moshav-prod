@@ -16,7 +16,6 @@ body {
     scroll-behavior: smooth;
 }
 
-
 body.fall-back {
     background-color: black;
     width: 100%;
