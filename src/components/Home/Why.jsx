@@ -91,7 +91,7 @@ const Why = () => {
             Cluster marketing support & Brokerage Services
           </h2>
           <img
-            className="w-full md-2:max-w-[500px] hidden md-2:block"
+             className="w-full md-2:max-w-[500px]"
             src={whyThree}
             alt="why one"
           />
